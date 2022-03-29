@@ -4,5 +4,4 @@
 + HTML
 + CSS
 + Visual Studio Code 
-+ Git commands
-+ GitHub 
++ Git commands & GitHub  
