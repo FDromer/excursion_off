@@ -29,6 +29,10 @@ p {
   margin-bottom: 30px;
 }
 
+.camp img {
+  width: 850px;
+}
+
 .footer {
   text-align: right;
   color: gray;
