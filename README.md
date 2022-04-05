@@ -1,7 +1,7 @@
 # Excursion
 Web page Excursion link 
 
-:pointing backhand index:
+:point_right:
 ## The main focus is on Git, GitHub, HTML and CSS
 ### Technologies
 + HTML
