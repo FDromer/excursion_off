@@ -1,7 +1,7 @@
 # Excursion
 Web page Excursion link 
 
-:point_right:
+:point_right: [Excursion page](https://fdromer.github.io/excursion_off/)
 ## The main focus is on Git, GitHub, HTML and CSS
 ### Technologies
 + HTML
