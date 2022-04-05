@@ -1,7 +1,7 @@
 # Excursion
 Web page Excursion link 
 
-:finger direction:
+:pointing:
 ## The main focus is on Git, GitHub, HTML and CSS
 ### Technologies
 + HTML
